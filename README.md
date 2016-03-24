@@ -14,4 +14,4 @@ Extra Feature Implementation:<br/>
 1. Adaptive threshold for Harris Score (mean value of the harris matrix)<br/>
 2. Find the scale of the image during finding interesting points and apply the result to the feature width during getting features
 
-See more details at: [Computer Vision Project 1 Website](http://all4win.github.io/projects/cv_proj2/index.html)
+See more details at: [Computer Vision Project 2 Website](http://all4win.github.io/projects/cv_proj2/index.html)
